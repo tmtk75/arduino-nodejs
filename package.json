@@ -1,0 +1,7 @@
+{
+  "name": "arduino-with-nodejs",
+  "dependencies": {
+    "johnny-five":"*"
+  }
+}
+
